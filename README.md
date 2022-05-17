@@ -11,6 +11,9 @@ Further, we need to create a service account and OAuth2 credentials from the Goo
 4.	Move on to ‘Credentials’(side bar) and click on ‘Create Credentials’ -> ‘Service Account Key’.
 
  
+ ![image](https://user-images.githubusercontent.com/81271164/168862278-bd49931b-23b7-4d5a-90c7-5d8864b899ea.png)
+
+ 
 
 5.	Select Compute Engine service, JSON, click create
 6.	Open up the JSON file , share your spreadsheet with the XXX-compute@developer.gservice.com email listed.
